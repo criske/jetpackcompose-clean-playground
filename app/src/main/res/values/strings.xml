@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">JCCP</string>
+    <string name="author">Author</string>
+    <string name="title">Title</string>
+    <string name="date_created">Date Created</string>
+    <string name="date_updated">Date Updated</string>
+    <string name="filter_dir_asc">Ascending</string>
+    <string name="filter_dir_desc">Descending</string>
+    <string name="err_author_text_empty">Author is empty</string>
+    <string name="err_title_text_empty">Title is empty</string>
+    <string name="err_genre_text_empty">Genre is empty</string>
+    <string name="err_year_negative">Year is negative</string>
+    <string name="err_less_1900">Year is less than 1900</string>
+    <string name="err_year_larger_current">Year is larger than current year</string>
+</resources>

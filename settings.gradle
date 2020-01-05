@@ -1,0 +1,3 @@
+rootProject.name='jetpack-compose-clean-playground'
+include ':app'
+include ':jccp-domain'
